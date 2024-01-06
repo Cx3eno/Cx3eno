@@ -1,5 +1,5 @@
 - 👋 Hey Folks, I’m @Cx3eno.
-- 👀 My main interests are in Ethical Hacking, Penetration Testing.
+- 👀 My main interests are in Information Security, Penetration Testing.
 - 🌱 Currently I am learning - Programming Languages: C/C++, Python, Java, HTML, PHP, JS || Specialization - Penetration Tester.
 - 🤝 Looking forward to collaborate on - Red Teaming.
 - 📫 How to reach me - Gmail: cx3eno@gmail.com || Telegram & Discord: Cx3eno.
